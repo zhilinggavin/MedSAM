@@ -1,0 +1,240 @@
+{
+    "os": "Linux-5.15.0-116-generic-x86_64-with-glibc2.31",
+    "python": "3.10.14",
+    "heartbeatAt": "2024-08-10T12:01:37.065956",
+    "startedAt": "2024-08-10T12:01:36.457792",
+    "docker": null,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "/media/NAS06/gavinyue/disentanglement/MedSAM/train_one_gpu_realfib.py",
+    "codePathLocal": "train_one_gpu_realfib.py",
+    "codePath": "train_one_gpu_realfib.py",
+    "git": {
+        "remote": "https://github.com/bowang-lab/MedSAM.git",
+        "commit": null
+    },
+    "email": "zhilinggavin@gmail.com",
+    "root": "/media/NAS06/gavinyue/disentanglement/MedSAM",
+    "host": "yanglab4",
+    "username": "gavinyue",
+    "executable": "/home/gavinyue/miniconda3/envs/MedSAM/bin/python",
+    "cpu_count": 18,
+    "cpu_count_logical": 36,
+    "cpu_freq": {
+        "current": 3026.8591944444443,
+        "min": 1200.0,
+        "max": 4633.333333333333
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 3000.0,
+            "min": 1200.0,
+            "max": 4600.0
+        },
+        {
+            "current": 4148.444,
+            "min": 1200.0,
+            "max": 4600.0
+        },
+        {
+            "current": 3000.0,
+            "min": 1200.0,
+            "max": 4600.0
+        },
+        {
+            "current": 3000.0,
+            "min": 1200.0,
+            "max": 4800.0
+        },
+        {
+            "current": 3000.0,
+            "min": 1200.0,
+            "max": 4600.0
+        },
+        {
+            "current": 3000.0,
+            "min": 1200.0,
+            "max": 4600.0
+        },
+        {
+            "current": 3000.0,
+            "min": 1200.0,
+            "max": 4600.0
+        },
+        {
+            "current": 3000.0,
+            "min": 1200.0,
+            "max": 4600.0
+        },
+        {
+            "current": 3000.0,
+            "min": 1200.0,
+            "max": 4700.0
+        },
+        {
+            "current": 3000.0,
+            "min": 1200.0,
+            "max": 4600.0
+        },
+        {
+            "current": 3000.0,
+            "min": 1200.0,
+            "max": 4700.0
+        },
+        {
+            "current": 3000.0,
+            "min": 1200.0,
+            "max": 4800.0
+        },
+        {
+            "current": 3000.0,
+            "min": 1200.0,
+            "max": 4600.0
+        },
+        {
+            "current": 3000.0,
+            "min": 1200.0,
+            "max": 4600.0
+        },
+        {
+            "current": 3000.0,
+            "min": 1200.0,
+            "max": 4600.0
+        },
+        {
+            "current": 3854.216,
+            "min": 1200.0,
+            "max": 4600.0
+        },
+        {
+            "current": 3000.0,
+            "min": 1200.0,
+            "max": 4600.0
+        },
+        {
+            "current": 3000.0,
+            "min": 1200.0,
+            "max": 4600.0
+        },
+        {
+            "current": 3000.0,
+            "min": 1200.0,
+            "max": 4600.0
+        },
+        {
+            "current": 3000.0,
+            "min": 1200.0,
+            "max": 4600.0
+        },
+        {
+            "current": 3000.0,
+            "min": 1200.0,
+            "max": 4600.0
+        },
+        {
+            "current": 3000.0,
+            "min": 1200.0,
+            "max": 4800.0
+        },
+        {
+            "current": 3000.0,
+            "min": 1200.0,
+            "max": 4600.0
+        },
+        {
+            "current": 3000.0,
+            "min": 1200.0,
+            "max": 4600.0
+        },
+        {
+            "current": 3000.0,
+            "min": 1200.0,
+            "max": 4600.0
+        },
+        {
+            "current": 3000.0,
+            "min": 1200.0,
+            "max": 4600.0
+        },
+        {
+            "current": 3000.0,
+            "min": 1200.0,
+            "max": 4700.0
+        },
+        {
+            "current": 3000.0,
+            "min": 1200.0,
+            "max": 4600.0
+        },
+        {
+            "current": 3000.0,
+            "min": 1200.0,
+            "max": 4700.0
+        },
+        {
+            "current": 3000.0,
+            "min": 1200.0,
+            "max": 4800.0
+        },
+        {
+            "current": 3000.0,
+            "min": 1200.0,
+            "max": 4600.0
+        },
+        {
+            "current": 3000.0,
+            "min": 1200.0,
+            "max": 4600.0
+        },
+        {
+            "current": 3000.0,
+            "min": 1200.0,
+            "max": 4600.0
+        },
+        {
+            "current": 3000.0,
+            "min": 1200.0,
+            "max": 4600.0
+        },
+        {
+            "current": 3000.0,
+            "min": 1200.0,
+            "max": 4600.0
+        },
+        {
+            "current": 3000.0,
+            "min": 1200.0,
+            "max": 4600.0
+        }
+    ],
+    "disk": {
+        "/": {
+            "total": 900.2950744628906,
+            "used": 768.7811584472656
+        }
+    },
+    "gpu": "NVIDIA GeForce RTX 3090",
+    "gpu_count": 4,
+    "gpu_devices": [
+        {
+            "name": "NVIDIA GeForce RTX 3090",
+            "memory_total": 25447170048
+        },
+        {
+            "name": "NVIDIA GeForce RTX 3090",
+            "memory_total": 25447170048
+        },
+        {
+            "name": "NVIDIA GeForce RTX 3090",
+            "memory_total": 25447170048
+        },
+        {
+            "name": "NVIDIA GeForce RTX 3090",
+            "memory_total": 25444548608
+        }
+    ],
+    "memory": {
+        "total": 125.47672653198242
+    }
+}
